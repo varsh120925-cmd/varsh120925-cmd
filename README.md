@@ -1,296 +1,364 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:9B59B6&height=220&section=header&text=E.S%20Tamil%20Varshini&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=E.S%20Tamil%20Varshini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
-### Computer Science Engineering Student
-
-*Building ideas into practical technology solutions.*
+<a href="https://linkedin.com/in/tamilvarshini12">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8064A2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:varshi1209@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-8064A2?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 <br/>
 
-<a href="https://linkedin.com/in/tamilvarshini12">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8064A2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:varshi1209@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-8064A2?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8064A2&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+and+Growing+Every+Day;Turning+Ideas+Into+Technology" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## ABOUT ME
+## 👩🏻‍💻 About Me
 
-I am a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+I am a Computer Science Engineering student interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-I enjoy developing applications that combine technology with real-world problem-solving. I am continuously learning new tools, improving my programming skills, and exploring opportunities to grow as a software professional.
+I enjoy building practical applications, exploring new technologies, and developing solutions for real-world problems. I am continuously improving my programming and technical skills through projects and learning.
 
-- **Education:** B.E. Computer Science Engineering
-- **College:** Sri Sairam College of Engineering, Bengaluru
-- **CGPA:** 8.16 / 10 (up to 6th semester)
-- **Interests:** Artificial Intelligence, Machine Learning, Software Development
-
----
-
-## TECHNICAL SKILLS
-
-| Area | Skills |
-|:---|:---|
-| Programming | Python, Java (Learning) |
-| AI & ML | Machine Learning, NLP, Scikit-learn, XGBoost |
-| Data Analysis | Pandas, NumPy, Matplotlib |
-| Development | Flask, FastAPI, Streamlit |
-| Tools | VS Code, Git, GitHub |
+- 🎓 B.E. Computer Science Engineering
+- 🏫 Sri Sairam College of Engineering, Bengaluru
+- 📊 CGPA: 8.16 / 10 (up to 6th semester)
+- 🤖 Interested in AI, Machine Learning, NLP, and Software Development
+- 🌱 Currently learning Java, DSA, and advanced AI concepts
 
 ---
 
-## FEATURED PROJECTS
+## 🛠️ Technical Skills
 
-<div align="center">
+**Programming**
 
-### 01 — NexusGuard
-**AI-Based Logistics Risk & Fraud Detection**
+![Python](https://img.shields.io/badge/Python-8064A2?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Learning-8064A2?style=flat-square&logo=openjdk&logoColor=white)
 
-</div>
+**AI & Machine Learning**
 
-> An intelligent logistics analysis application designed to assess supply chain risks and identify potentially suspicious activities.
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8064A2?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-8064A2?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-8064A2?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-8064A2?style=flat-square)
 
-**Key Highlights**
-- Supply Chain Fragility Index for logistics risk assessment.
-- Risk scoring and visualization.
-- Weather data integration through Open-Meteo API.
-- Fraud-risk analysis and dashboard insights.
+**Data Analysis**
 
-**Tech Stack:** Python · Machine Learning · FastAPI · Scikit-learn · Open-Meteo
+![Pandas](https://img.shields.io/badge/Pandas-8064A2?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8064A2?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8064A2?style=flat-square)
 
-<div align="center">
+**Development & Tools**
 
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/NexusGuard-AI)
-
-</div>
-
----
-
-<div align="center">
-
-### 02 — Startup Idea Validator
-**AI-Based Startup Idea & Market Analysis**
-
-</div>
-
-> An AI-powered application designed to help users evaluate startup concepts and explore their business potential.
-
-**Key Highlights**
-- Accepts startup ideas as user input.
-- Supports structured idea evaluation.
-- Provides market-related insights.
-- Helps users understand business feasibility.
-
-**Tech Stack:** Python · AI-Based Analysis · Web Development
-
-<div align="center">
-
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/startup-idea-validator-ai)
-
-</div>
+![Flask](https://img.shields.io/badge/Flask-8064A2?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-8064A2?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-8064A2?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8064A2?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8064A2?style=flat-square&logo=github&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-### 03 — AgriBot
-**AI-Based Smart Agriculture Assistant**
+### PROJECT PORTFOLIO
+
+*Exploring AI, machine learning, data analytics, and real-world applications.*
 
 </div>
 
-> A software-based agriculture assistant combining machine learning, image analysis, and chatbot assistance.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Highlights**
-- Crop recommendation using soil-related parameters.
+<h3 align="center">01. NexusGuard</h3>
+<p align="center"><b>AI-Based Logistics Risk & Fraud Detection</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Logistics-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Risk_Analysis-8064A2?style=flat-square"/>
+</p>
+
+An intelligent logistics analysis project designed to assess supply chain risks and highlight potentially suspicious shipment activities.
+
+**Key Features**
+- Supply Chain Fragility Index.
+- Logistics risk assessment.
+- Weather data integration using Open-Meteo.
+- Fraud-risk scoring and analysis.
+- Dashboard for visualizing risk insights.
+
+**Technologies:** Python, Scikit-learn, FastAPI, Open-Meteo API.
+
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/NexusGuard-AI"><b>↗ VIEW REPOSITORY</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">02. Startup Idea Validator</h3>
+<p align="center"><b>AI-Based Startup Idea & Market Analysis</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Startup_Analysis-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Market-Research-8064A2?style=flat-square"/>
+</p>
+
+An AI-based application designed to help users evaluate startup concepts and explore their business potential through structured idea analysis.
+
+**Key Features**
+- Startup idea submission and evaluation.
+- Structured idea validation.
+- Market analysis assistance.
+- Business feasibility insights.
+- User-friendly application interface.
+
+**Technologies:** AI-based Analysis, Python, Web Development.
+
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/startup-idea-validator-ai"><b>↗ VIEW REPOSITORY</b></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">03. Edge AI Landslide Prediction</h3>
+<p align="center"><b>Real-Time Landslide Monitoring System</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Edge_AI-Environmental_Monitoring-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/SDG-13-8064A2?style=flat-square"/>
+</p>
+
+An environmental monitoring project exploring Edge AI and sensor-based parameters for landslide risk awareness and early-warning applications.
+
+**Key Features**
+- Soil moisture monitoring.
+- Vibration sensor input.
+- Rainfall monitoring.
+- Proposed Edge AI prediction approach.
+- Focus on disaster-risk awareness.
+
+**Technologies:** Edge AI, Soil Moisture Sensor, Vibration Sensor, Rainfall Sensor.
+
+**Achievement:** Sairam SDG Inspirathon 2026–27 | SDG Goal 13 – Climate Action.
+
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/Landslide-Prediction-System"><b>↗ VIEW REPOSITORY</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">04. AgriBot</h3>
+<p align="center"><b>AI-Based Smart Agriculture Assistant</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Agriculture-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-Plant_Disease-8064A2?style=flat-square"/>
+</p>
+
+A software-based agriculture assistant combining machine learning, image analysis, and chatbot support for agriculture-related applications.
+
+**Key Features**
+- Crop recommendation using soil parameters.
 - XGBoost-based recommendation approach.
 - Plant leaf disease identification using ResNet.
-- Chatbot support for agriculture-related queries.
+- Agriculture-related chatbot assistance.
 
-**Tech Stack:** Python · XGBoost · ResNet · Machine Learning · AI Chatbot
+**Technologies:** Python, XGBoost, ResNet, Machine Learning.
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/Agribot"><b>↗ VIEW REPOSITORY</b></a>
+</p>
 
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/Agribot)
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3 align="center">05. RE-DACT</h3>
+<p align="center"><b>AI-Based Document Redaction System</b></p>
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-Data_Privacy-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Document_Security-8064A2?style=flat-square"/>
+</p>
 
-### 04 — Product Return Intelligence
-**AI-Based Product Return & Financial Loss Analysis**
+A privacy-focused application designed to detect and mask sensitive personal information in text, PDF documents, and images.
 
-</div>
+**Key Features**
+- Aadhaar and PAN information detection.
+- Phone number and email identification.
+- NLP-based entity detection using spaCy.
+- Regex-based sensitive data detection.
+- Document redaction and audit-style activity records.
+- User authentication.
 
-> A machine learning application that analyses product returns and estimates their potential financial impact.
+**Technologies:** Python, Flask, spaCy, Regex, PyMuPDF, Pillow, SQLAlchemy.
 
-**Key Highlights**
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/RE-DACT"><b>↗ VIEW REPOSITORY</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">06. Product Return Intelligence</h3>
+<p align="center"><b>AI-Based Product Return Analysis</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-Analytics-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-Financial_Analysis-8064A2?style=flat-square"/>
+</p>
+
+A machine learning project focused on analysing product returns and estimating their potential financial impact.
+
+**Key Features**
 - Exploratory data analysis.
-- Identification of product return patterns.
+- Product return pattern analysis.
 - Random Forest Regression for financial-loss prediction.
-- Streamlit dashboard for analytical insights.
+- Data visualization.
+- Streamlit dashboard.
 
-**Tech Stack:** Python · Pandas · Scikit-learn · Random Forest · Streamlit · Matplotlib
+**Technologies:** Python, Pandas, Scikit-learn, Random Forest Regression, Streamlit, Matplotlib.
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/Product-Return-AI"><b>↗ VIEW REPOSITORY</b></a>
+</p>
 
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/Product-Return-AI)
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3 align="center">07. Customer Churn Analysis</h3>
+<p align="center"><b>Customer Behaviour & Churn Analytics</b></p>
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Analytics-Customer_Insights-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Analysis-8064A2?style=flat-square"/>
+</p>
 
-### 05 — RE-DACT
-**AI-Based Document Redaction System**
+A data analytics project focused on understanding customer behaviour and identifying patterns associated with customer churn.
 
-</div>
-
-> A privacy-focused application designed to detect and mask sensitive information in documents and images.
-
-**Key Highlights**
-- Detection of Aadhaar, PAN, phone numbers, and email addresses.
-- NLP-based entity detection and regex matching.
-- Text, PDF, and image redaction workflows.
-- User authentication and audit-style activity records.
-
-**Tech Stack:** Python · Flask · spaCy · Regex · PyMuPDF · Pillow · SQLAlchemy
-
-<div align="center">
-
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/RE-DACT)
-
-</div>
-
----
-
-<div align="center">
-
-### 06 — Customer Churn Analysis
-**Customer Behaviour & Churn Analytics**
-
-</div>
-
-> A data analysis project focused on understanding customer behaviour and identifying patterns associated with customer churn.
-
-**Key Highlights**
+**Key Features**
 - Customer data preprocessing.
 - Exploratory data analysis.
 - Churn pattern analysis.
-- Data visualization and Streamlit interface.
+- Data visualization.
+- Streamlit application interface.
 
-**Tech Stack:** Python · Pandas · Machine Learning · Streamlit · Data Visualization
+**Technologies:** Python, Pandas, Machine Learning, Streamlit, Data Visualization.
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/churn-streamlit-app.py"><b>↗ VIEW REPOSITORY</b></a>
+</p>
 
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/churn-streamlit-app.py)
+</td>
+<td width="50%" valign="top">
 
-</div>
+<h3 align="center">08. Leaf Disease Detection</h3>
+<p align="center"><b>AI-Based Plant Leaf Disease Identification</b></p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Image_Analysis-8064A2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agriculture-Plant_Health-8064A2?style=flat-square"/>
+</p>
 
-<div align="center">
+An image-based project focused on identifying possible plant diseases through leaf image analysis.
 
-### 07 — Leaf Disease Detection
-**AI-Based Plant Leaf Disease Identification**
-
-</div>
-
-> An image-based project focused on identifying possible plant diseases through leaf image analysis.
-
-**Key Highlights**
+**Key Features**
 - Leaf image input and analysis.
 - Image-processing concepts.
 - Machine learning and image classification approach.
 - Agriculture-focused disease identification.
 
-**Tech Stack:** Python · Image Processing · Machine Learning / Deep Learning
+**Technologies:** Python, Image Processing, Machine Learning / Deep Learning.
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/varsh120925-cmd/leafdisease"><b>↗ VIEW REPOSITORY</b></a>
+</p>
 
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/leafdisease)
-
-</div>
-
----
-
-<div align="center">
-
-### 08 — Landslide Prediction System
-**Edge AI Enabled Real-Time Landslide Prediction**
-
-</div>
-
-> An environmental monitoring project exploring Edge AI and sensor-based parameters for landslide risk awareness.
-
-**Key Highlights**
-- Soil moisture monitoring.
-- Vibration sensor input.
-- Rainfall parameter monitoring.
-- Proposed Edge AI-based prediction approach.
-- Focus on early warning and disaster-risk awareness.
-
-**Tech Stack:** Edge AI · Sensor Technology · Environmental Monitoring
-
-**Achievement:** Sairam SDG Inspirathon 2026–27  
-**SDG:** Goal 13 – Climate Action
-
-<div align="center">
-
-[**↗ VIEW PROJECT**](https://github.com/varsh120925-cmd/Landslide-Prediction-System)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## INTERNSHIPS
+## 💼 Experience & Internships
 
-**AI for Sustainability — 1M1B | IBM SkillsBuild | AICTE**
+<details>
+<summary><b>AI for Sustainability — 1M1B | IBM SkillsBuild | AICTE</b> · December 2025 – January 2026</summary>
 
-December 2025 – January 2026
+- Exposure to AI applications for sustainability-related challenges.
+- Explored responsible AI concepts and practical applications.
+- Learned about AI-based solutions aligned with sustainability goals.
 
-**ServiceNow Virtual Internship — SmartBridge | AICTE**
+</details>
 
-April 2026
+<details>
+<summary><b>ServiceNow Virtual Internship — SmartBridge | AICTE</b> · April 2026</summary>
 
----
+- Learned about the ServiceNow platform.
+- Explored platform administration and workflow concepts.
+- Gained exposure to enterprise workflow configuration and testing.
 
-## CERTIFICATIONS
-
-- Principles of Generative AI — Infosys Springboard
-- Applied Generative AI — Infosys Springboard
-- Introduction to AI & ML — Analytics Vidhya
-- AI Fundamentals — IBM SkillsBuild
-- Trustworthy AI — IBM SkillsBuild
-- Generate Reports with AI Agents — Microsoft Applied Skills
-- AI Skills Passport — EY & Microsoft
-- AI Careers for Women 2025–26 — Edunet (Microsoft & SAP)
+</details>
 
 ---
 
-## EDUCATION
+## 🏆 Certifications & Achievements
 
-**B.E. Computer Science and Engineering**
+| Certification / Achievement | Issuer |
+|---|---|
+| Principles of Generative AI | Infosys Springboard |
+| Applied Generative AI | Infosys Springboard |
+| Introduction to AI & ML | Analytics Vidhya |
+| AI Fundamentals | IBM SkillsBuild |
+| Trustworthy AI | IBM SkillsBuild |
+| Generate Reports with AI Agents | Microsoft Applied Skills |
+| AI Skills Passport | EY & Microsoft |
+| AI Careers for Women 2025–26 | Edunet – Microsoft & SAP |
+| Sairam SDG Inspirathon 2026–27 – Landslide Prediction Project | Sri Sairam College |
 
-Sri Sairam College of Engineering, Bengaluru
+---
 
+## 🎓 Education
+
+**B.E. – Computer Science and Engineering**
+
+Sri Sairam College of Engineering, Bengaluru  
 2023 – 2027
 
 **CGPA:** 8.16 / 10 (up to 6th semester)
 
+**Higher Secondary Education**
+
+St Joseph Matric Hr. Sec. School, Hosur  
+2022 – 2023
+
 ---
 
-## CURRENTLY EXPLORING
+## 🌱 Currently Learning
 
-`Java` `Data Structures & Algorithms` `Machine Learning` `Generative AI` `Software Development`
+- Java Programming
+- Data Structures and Algorithms
+- Problem Solving
+- Machine Learning
+- Generative AI
+- Agentic AI and RAG concepts
 
 ---
 
@@ -298,11 +366,10 @@ Sri Sairam College of Engineering, Bengaluru
 
 ### THANK YOU FOR VISITING MY PROFILE
 
-*Learn • Build • Improve*
+*Learn • Build • Explore • Improve*
 
-<sub>Designed with simplicity and a passion for technology.</sub>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:9B59B6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
