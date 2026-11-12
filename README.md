@@ -26,7 +26,7 @@ I enjoy building practical applications, exploring new technologies, and develop
 
 - 🎓 B.E. Computer Science Engineering
 - 🏫 Sri Sairam College of Engineering, Bengaluru
-- 📊 CGPA: 8.16 / 10 (up to 6th semester)
+- 📊 CGPA: 8.16 
 - 🤖 Interested in AI, Machine Learning, NLP, and Software Development
 - 🌱 Currently learning Java, DSA, and advanced AI concepts
 
