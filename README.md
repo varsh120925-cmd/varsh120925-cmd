@@ -1,19 +1,18 @@
 
-# Hi there! 👋 I'm Tamil Varshini E.S
-
-<!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tamil%20Varshini%20E.S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20Engineer%20%7C%20GenAI%20%7C%20Machine%20Learning&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=190&section=header&text=Tamil%20Varshini%20E.S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descAlignY=60&descSize=15" width="100%"/>
 
 <a href="https://linkedin.com/in/tamilvarshini12">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:varshi1209@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer;Building+AI+and+Machine+Learning+Projects;Exploring+Generative+AI+and+NLP;Turning+Ideas+into+Practical+Solutions" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B9FFF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Exploring+Generative+AI+%26+Machine+Learning;Building+Practical+AI+Applications;Learning+Something+New+Every+Day" />
 
 </div>
 
@@ -21,33 +20,15 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. Computer Science student at Sri Sairam College of Engineering.
-- 💡 Interested in Artificial Intelligence, Generative AI and Software Development.
-- 🌱 Currently exploring Agentic AI, NLP and Retrieval-Augmented Generation (RAG).
-- 🚀 Building practical AI and machine learning projects.
-- 🎯 Aspiring to build a career in AI and software engineering.
+I'm Tamil Varshini E.S, a Computer Science Engineering student passionate about Artificial Intelligence, Generative AI and software development.
 
-```python
-class TamilVarshini:
-    def __init__(self):
-        self.name = "Tamil Varshini E.S"
-        self.education = "B.E. Computer Science"
-        self.college = "Sri Sairam College of Engineering"
-        self.cgpa = "8.16"
-        self.interests = [
-            "Artificial Intelligence",
-            "Generative AI",
-            "Machine Learning",
-            "Software Development"
-        ]
-        self.languages = ["Python", "Java (Learning)"]
+- 🎓 Pursuing B.E. Computer Science at Sri Sairam College of Engineering.
+- 🤖 Interested in AI, Machine Learning and Generative AI applications.
+- 💻 Building practical projects using Python and AI technologies.
+- 🌱 Currently exploring Agentic AI, NLP and RAG.
+- 🎯 Aspiring to contribute to innovative AI and software solutions.
 
-    def motto(self):
-        return "Learn, Build, Improve and Repeat!"
-
-me = TamilVarshini()
-print(me.motto())
-```
+---
 
 ## 🛠️ Technical Skills
 
@@ -56,15 +37,15 @@ print(me.motto())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**AI & Machine Learning**
+**Artificial Intelligence & Machine Learning**
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0F9D58?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F9D58?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
 
-**Data Science & Tools**
+**Data Science & Development**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -72,107 +53,99 @@ print(me.motto())
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=varsh120925-cmd&show_icons=true&theme=tokyonight&bg_color=0d1117" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsh120925-cmd&layout=compact&theme=tokyonight&bg_color=0d1117" width="40%"/>
-
-<img src="https://streak-stats.demolab.com?user=varsh120925-cmd&theme=tokyonight&background=0d1117" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varsh120925-cmd&theme=tokyo-night&bg_color=0d1117" width="90%"/>
-
-</div>
+---
 
 ## 💼 Experience & Internships
 
 <details>
-<summary><b>AI for Sustainability – 1M1B | IBM SkillsBuild | AICTE</b> (Dec 2025 – Jan 2026)</summary>
+<summary><b>AI for Sustainability – 1M1B | IBM SkillsBuild | AICTE</b> · Dec 2025 – Jan 2026</summary>
 
-- Learned responsible AI concepts and their applications in sustainability.
-- Explored Agentic AI and Retrieval-Augmented Generation.
-- Studied AI ethics and prompt design.
+- Explored responsible AI solutions for sustainability challenges.
+- Learned about Agentic AI and Retrieval-Augmented Generation.
+- Studied AI ethics and practical AI applications.
 
 </details>
 
 <details>
-<summary><b>ServiceNow Virtual Internship – SmartBridge | AICTE</b> (April 2026)</summary>
+<summary><b>ServiceNow Virtual Internship – SmartBridge | AICTE</b> · April 2026</summary>
 
 - Learned ServiceNow platform administration.
 - Explored Automated Test Framework (ATF).
-- Completed ServiceNow learning and certification activities.
+- Gained exposure to enterprise workflow configuration and testing.
 
 </details>
 
+---
+
 ## 🚀 Featured Projects
 
-### 1. [NexusGuard – AI Logistics Risk & Fraud Detection](https://github.com/varsh120925-cmd/NexusGuard-AI)
+### 01. [NexusGuard – AI Logistics Risk & Fraud Detection](https://github.com/varsh120925-cmd/NexusGuard-AI)
 
-AI-powered logistics risk and fraud detection using machine learning and weather information.
+<sub>PYTHON · MACHINE LEARNING · FASTAPI · WEATHER API</sub>
 
-**Technologies:** Python, Machine Learning, FastAPI, Open-Meteo API
+An AI-powered logistics risk and fraud detection application that analyzes shipment risks using multiple factors and real-time weather information.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/NexusGuard-AI)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/NexusGuard-AI)
 
-### 2. [AI-Based Startup Idea Validator](https://github.com/varsh120925-cmd/startup-idea-validator-ai)
+### 02. [AI-Based Startup Idea Validator](https://github.com/varsh120925-cmd/startup-idea-validator-ai)
 
-AI-powered application for startup idea evaluation and market analysis assistance.
+<sub>PYTHON · GENERATIVE AI · NLP · MARKET ANALYSIS</sub>
 
-**Technologies:** Python, Generative AI, NLP, Market Analysis
+An AI-powered application designed to evaluate startup ideas and provide market analysis assistance for better business decisions.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/startup-idea-validator-ai)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/startup-idea-validator-ai)
 
-### 3. [Edge AI-Enabled Real-Time Landslide Prediction System](https://github.com/varsh120925-cmd/Landslide-Prediction-System)
+### 03. [Edge AI-Enabled Real-Time Landslide Prediction System](https://github.com/varsh120925-cmd/Landslide-Prediction-System)
 
-Landslide risk prediction using soil moisture, vibration and rainfall sensor data.
+<sub>EDGE AI · IOT · MACHINE LEARNING · SENSOR TECHNOLOGY</sub>
 
-**Technologies:** Edge AI, IoT Sensors, Machine Learning
+A landslide prediction system using soil moisture, vibration and rainfall sensor data to identify potential risks.
 
-**Achievement:** Sairam SDG Inspirathon 2026–27
+🏆 Sairam SDG Inspirathon 2026–27
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/Landslide-Prediction-System)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/Landslide-Prediction-System)
 
-### 4. [RE-DACT – AI Document Redaction System](https://github.com/varsh120925-cmd/RE-DACT)
+### 04. [RE-DACT – AI Document Redaction System](https://github.com/varsh120925-cmd/RE-DACT)
 
-Detects and redacts sensitive personal information from documents.
+<sub>PYTHON · FLASK · spaCy · REGEX</sub>
 
-**Technologies:** Python, Flask, spaCy, Regex
+A document security application that detects and redacts sensitive personal information from documents.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/RE-DACT)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/RE-DACT)
 
-### 5. [AgriBot – Agricultural AI Assistant](https://github.com/varsh120925-cmd/Agribot)
+### 05. [AgriBot – AI Agricultural Assistant](https://github.com/varsh120925-cmd/Agribot)
 
-AI-based agricultural assistant for crop recommendations and plant disease identification.
+<sub>PYTHON · XGBOOST · RESNET · AI</sub>
 
-**Technologies:** Python, XGBoost, ResNet
+An AI-based agricultural assistant offering crop recommendations, plant disease identification and farming-related support.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/Agribot)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/Agribot)
 
-### 6. [Product Return Intelligence](https://github.com/varsh120925-cmd/Product-Return-AI)
+### 06. [Product Return Intelligence](https://github.com/varsh120925-cmd/Product-Return-AI)
 
-Analyzes product returns and predicts potential financial losses.
+<sub>PYTHON · PANDAS · NUMPY · MACHINE LEARNING</sub>
 
-**Technologies:** Python, Pandas, NumPy, Machine Learning
+A data analytics and machine learning project focused on identifying product return patterns and predicting potential financial losses.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/Product-Return-AI)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/Product-Return-AI)
 
-### 7. [Customer Churn Analysis](https://github.com/varsh120925-cmd/churn-streamlit-app.py)
+### 07. [Customer Churn Analysis](https://github.com/varsh120925-cmd/churn-streamlit-app.py)
 
-Analyzes customer churn patterns and presents insights through a dashboard.
+<sub>PYTHON · PANDAS · MATPLOTLIB · STREAMLIT</sub>
 
-**Technologies:** Python, Pandas, Matplotlib, Streamlit
+An interactive data analytics application for understanding customer churn patterns and presenting useful insights.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/churn-streamlit-app.py)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/churn-streamlit-app.py)
 
-### 8. [Leaf Disease Detection](https://github.com/varsh120925-cmd/leafdisease)
+### 08. [Leaf Disease Detection](https://github.com/varsh120925-cmd/leafdisease)
 
-AI-based plant leaf disease identification through image analysis.
+<sub>PYTHON · DEEP LEARNING · IMAGE PROCESSING</sub>
 
-**Technologies:** Python, Deep Learning, Image Processing
+An AI-based application for identifying plant leaf diseases through image analysis.
 
-🔗 [View Repository](https://github.com/varsh120925-cmd/leafdisease)
+[**↗ View Repository**](https://github.com/varsh120925-cmd/leafdisease)
+
+---
 
 ## 🏆 Certifications & Achievements
 
@@ -182,11 +155,13 @@ AI-based plant leaf disease identification through image analysis.
 - Generate Reports with AI Agents – Microsoft Applied Skills
 - AI Skills Passport – EY & Microsoft
 - AI Careers for Women 2025–26 – Edunet (Microsoft & SAP)
-- Sairam SDG Inspirathon 2026–27 – Edge AI-Enabled Real-Time Landslide Prediction System
+- Sairam SDG Inspirathon 2026–27 – Edge AI Landslide Prediction Project
+
+---
 
 ## 🎓 Education
 
-**B.E. Computer Science and Engineering**
+**B.E. – Computer Science and Engineering**
 
 Sri Sairam College of Engineering, Bengaluru  
 2023–2027 | CGPA: 8.16
@@ -196,21 +171,26 @@ Sri Sairam College of Engineering, Bengaluru
 St. Joseph Matric Hr. Sec. School, Hosur  
 2022–2023
 
-## 🌱 Currently Learning
+---
 
-- Agentic AI Workflows
+## 🌱 Currently Exploring
+
+- Generative AI and Agentic AI
 - Retrieval-Augmented Generation (RAG)
-- Generative AI Applications
+- Natural Language Processing
+- Machine Learning Applications
 - Java and Data Structures
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 😊
+### ✨ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=varsh120925-cmd&color=blueviolet&style=flat-square)
+*Learning continuously. Building thoughtfully. Growing every day.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=varsh120925-cmd&color=8b5cf6&style=flat-square&label=Profile+Visitors"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
