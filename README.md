@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Tamil Varshini E.S, a Computer Science Engineering student passionate about Artificial Intelligence, Generative AI and software development.
+I'm E.S Tamil Varshini, a Computer Science Engineering student passionate about Artificial Intelligence, Generative AI and software development.
 
 - 🎓 Pursuing B.E. Computer Science at Sri Sairam College of Engineering.
 - 🤖 Interested in AI, Machine Learning and Generative AI applications.
