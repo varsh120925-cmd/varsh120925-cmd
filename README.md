@@ -1,7 +1,10 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=E.S%20Tamil%20Varshini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+
+# E.S Tamil Varshini
+
+**AI & Machine Learning Enthusiast | Software Developer**
 
 <a href="https://linkedin.com/in/tamilvarshini12">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8064A2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -26,7 +29,7 @@ I enjoy building practical applications, exploring new technologies, and develop
 
 - 🎓 B.E. Computer Science Engineering
 - 🏫 Sri Sairam College of Engineering, Bengaluru
-- 📊 CGPA: 8.16 
+- 📊 CGPA: 8.16
 - 🤖 Interested in AI, Machine Learning, NLP, and Software Development
 - 🌱 Currently learning Java, DSA, and advanced AI concepts
 
@@ -268,29 +271,6 @@ A data analytics project focused on understanding customer behaviour and identif
 
 </td>
 <td width="50%" valign="top">
-
-<h3 align="center">08. Leaf Disease Detection</h3>
-<p align="center"><b>AI-Based Plant Leaf Disease Identification</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Image_Analysis-8064A2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agriculture-Plant_Health-8064A2?style=flat-square"/>
-</p>
-
-An image-based project focused on identifying possible plant diseases through leaf image analysis.
-
-**Key Features**
-- Leaf image input and analysis.
-- Image-processing concepts.
-- Machine learning and image classification approach.
-- Agriculture-focused disease identification.
-
-**Technologies:** Python, Image Processing, Machine Learning / Deep Learning.
-
-<p align="center">
-<a href="https://github.com/varsh120925-cmd/leafdisease"><b>↗ VIEW REPOSITORY</b></a>
-</p>
-
 </td>
 </tr>
 </table>
